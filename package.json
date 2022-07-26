@@ -1,0 +1,12 @@
+{
+  "name": "nlw-mission-discover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionados ao dono da página. Projeto desenvolvido com o curso NLW Rocketseat na missão discover.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Nadia Santos",
+  "license": "ISC"
+}
